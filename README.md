@@ -1,4 +1,5 @@
 rdataretriever [![Build Status](https://cranlogs.r-pkg.org/badges/grand-total/rdataretriever)](https://CRAN.R-project.org/package=rdataretriever)
+[![codecov.io](https://codecov.io/github/ropensci/rdataretriever/coverage.svg?branch=master)](https://codecov.io/github/ropensci/rdataretriever?branch=master)
 ============
 
 R interface to the [Data Retriever](http://data-retriever.org).
